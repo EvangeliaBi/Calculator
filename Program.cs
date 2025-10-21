@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System;
+﻿using System;
 
 namespace Calculator
 {
@@ -74,4 +73,5 @@ namespace Calculator
             Console.ReadKey();
         }
     }
+
 }
