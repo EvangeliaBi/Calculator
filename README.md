@@ -1,3 +1,7 @@
+## Demo
+
+![Παρουσίαση Εφαρμογής](demo.gif)
+
 Title:
 Calculator
 
